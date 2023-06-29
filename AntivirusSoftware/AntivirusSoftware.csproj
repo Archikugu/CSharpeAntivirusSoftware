@@ -425,6 +425,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="main.txt" />
+    <Content Include="ProjectImage\Dashboard.png" />
+    <Content Include="ProjectImage\PerformanceCenter.png" />
+    <Content Include="ProjectImage\ScanCenter.png" />
+    <Content Include="ProjectImage\ScanCenter1.png" />
+    <Content Include="ProjectImage\ScanCenterSuccesfuly.png" />
+    <Content Include="ProjectImage\Vpn.png" />
+    <Content Include="Resources\Dashboard.png" />
+    <Content Include="Resources\PerformanceCenter.png" />
+    <Content Include="Resources\ScanCenter.png" />
+    <Content Include="Resources\ScanCenter1.png" />
+    <Content Include="Resources\ScanCenterSuccesfuly.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
